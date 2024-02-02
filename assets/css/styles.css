@@ -35,6 +35,13 @@ body {
   color: purple;
 }
 
+.p1{
+  font-size: 18px;
+  letter-spacing: 2px;
+  display: flex;
+  text-align: center;
+}
+
 section{
   display: flex;
   align-items: center;
