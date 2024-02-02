@@ -36,10 +36,11 @@ body {
 }
 
 .p1{
-  font-size: 18px;
-  letter-spacing: 2px;
+  font-size: 14px;
+  letter-spacing: 4px;
   display: flex;
   text-align: center;
+  width: 40px;
 }
 
 section{
